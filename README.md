@@ -1,4 +1,4 @@
-[![MasterHead align="center" width="800"](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)]
+[![MasterHead align="right" width="800"]](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
 <h1 align="center">Hi 👋, I'm Rishad Siddiqy</h1>
 <h3 align="center">A passionate Backend Developer from Dhaka, Bangladesh.</h3>
 <img align="center" alt="image" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
