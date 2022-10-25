@@ -1,7 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)]
+[![MasterHead] align="center" (https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Rishad Siddiqy</h1>
 <h3 align="center">A passionate Backend Developer from Dhaka, Bangladesh.</h3>
-<img align="right" alt="image" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="image" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishad-sid&label=Profile%20views&color=0e75b6&style=flat" alt="rishad-sid" /> </p>
 
