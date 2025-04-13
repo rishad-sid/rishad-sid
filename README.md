@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Gprojukti.com<br>🌱 I’m currently learning Socket.io, Elastic search
+👋 Hi, I’m Rishad Siddiqy — a passionate backend developer who builds scalable <br> apps with Node.js and works with Next.js on the frontend.<br>🌱 I’m currently learning golang and absolutely loving it.
 
 [![](https://visitcount.itsvg.in/api?id=rishad-sid&icon=0&color=0)](https://visitcount.itsvg.in)
 
