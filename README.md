@@ -3,7 +3,7 @@ Hi 👋 My name is Rishad Siddiqy — a passionate backend developer who builds 
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [rishad.sid@gmail.com](mailto:rishad.sid@gmail.com)
-* 🧠  I'm learning Go, and I am absolutely loving it.
+* 🧠  I'm currently learning Go, and I am absolutely loving it.
 * ⚡  I enjoy backpacking with friends—chasing trails, stories, and stillness. 🌿🎒
 
 ### Skills
